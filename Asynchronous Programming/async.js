@@ -1,0 +1,1 @@
+setTimeout(() => console.log('inside callback'), 2000);
